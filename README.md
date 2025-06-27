@@ -102,4 +102,4 @@ GET http://127.0.0.1:8001/metrics
 ---
 
 ## 👤 Credits
-Developed by [Your Name]. Inspired by distributed systems best practices. 
+Developed by [BilalShah+Cursor]. Inspired by distributed systems best practices. 
