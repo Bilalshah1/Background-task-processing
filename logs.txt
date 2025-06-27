@@ -1,0 +1,6 @@
+SUCCESS: type='send_email' payload={'to': 'test@example.com', 'subject': 'Hello'} retries=3
+SUCCESS: type='send_email' payload={'to': 'test@example.com', 'subject': 'Hello'} retries=3
+SUCCESS: type='send_email' payload={'to': 'test@example.com', 'subject': 'Hello'} retries=3
+SUCCESS: type='send_email' payload={'to': 'test@example.com', 'subject': 'Hello'} retries=3
+SUCCESS: type='send_email' payload={'to': 'test@example.com', 'subject': 'Hello'} retries=3
+SUCCESS: type='send_email' payload={'to': 'test@example.com', 'subject': 'Hello'} retries=3
